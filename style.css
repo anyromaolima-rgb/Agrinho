@@ -29,5 +29,22 @@ main {
    align-items:center;
 gap: 25px;
 margin-bottom: 40px
+}
 
+img {
+   width: 140px;
+   height: 140px;
+}
+
+.artigo-autor {
+   font-weight: bold;
+   color: #6A994E;
+}
+
+h2 {
+   color:  #386641;
+}
+
+.conteudo {
+   margin
 
